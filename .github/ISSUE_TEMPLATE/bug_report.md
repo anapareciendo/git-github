@@ -12,36 +12,34 @@ assignees: ""
 
 ## 🐛 Bug Report
 
-### Descripción
+### Description
 
-Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
+Clearly describe the error you have encountered. Include details about how the problem occurs.
 
-### Pasos para reproducir
+### Steps to reproduce
 
-1. Ir a '...'
+1. Navigate to '...'
 
-2. Hacer clic en '...'
+2. Click '...'
 
-3. Describir cualquier otra acción hasta que ocurra el problema.
+3. Describe any other actions until the problem occurs. 
 
 4. Error que aparece: '...'
 
-### Comportamiento esperado
+### Actual result
 
-Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
+The error that occurs.
 
-### Capturas de pantalla o registros
+If it's possible, add screenshots o error logs
 
-Si es posible, añade capturas de pantalla o registros de errores.
+### Expected result
 
-### Entorno
+Describe what you expected to happen when you performed the previous steps.
 
-- Sistema operativo: [p. ej., Windows 10, macOS Catalina]
+### Env
 
-- Navegador y versión: [p. ej., Chrome 87, Safari 14]
+- OS: [p. ej., Windows 10, macOS Catalina]
 
-- Versión del proyecto: [p. ej., 1.0.0]
+- Browser and version: [p. ej., Chrome 87, Safari 14]
 
-### Información adicional
-
-Cualquier otra información relevante.
+- Project version: [p. ej., 1.0.0]
